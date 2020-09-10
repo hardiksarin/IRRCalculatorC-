@@ -8,7 +8,7 @@
         WindowStartupLocation="CenterScreen"
         ResizeMode="NoResize"
         Height="850"
-        Width="707"
+        Width="700"
     d:DesignHeight="800"
     d:DesignWidth="667"
     mc:Ignorable="d">
